@@ -8,7 +8,7 @@ Project to showcase the use of GMAIL API for fetching email using java
 ```
 
 ### How to use
-1. Generate your gmail credential: Follow ![offficial documentation] (https://developers.google.com/api-client-library/java/google-api-java-client/oauth2)
+1. Generate your gmail credential: Follow [offficial documentation](https://developers.google.com/api-client-library/java/google-api-java-client/oauth2)
 2. Download the json file, rename it to cred.json and place it under `src/main/resources/credentials`
 3. Run `src/main/java/GmailAPiLib/GMail.java` as java programm
 

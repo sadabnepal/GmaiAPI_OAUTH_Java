@@ -1,0 +1,9 @@
+test-output/
+target/
+.settings/
+.metadata
+.classpath
+.project
+.idea/
+GmailAPI2020.iml
+src/main/resources/credentials/StoredCredential
